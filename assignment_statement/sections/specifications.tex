@@ -1,0 +1,98 @@
+En esta sección se describen los pasos a seguir para completar la tarea, la cual consiste en desarrollar código en C++ <<\nameref{subsec:implementations}>> y en realizar un informe <<\nameref{subsec:report}>>. Se espera que cada uno de los pasos se realice de manera ordenada y siguiendo las instrucciones dadas.
+
+\begin{mdframed}
+    Abra este documento en algún lector de pdf que permita hipervínculos, ya que en este documento el texto en color \textcolor{blue}{azul} suele indicar un hipervínculo.
+\end{mdframed}
+
+\begin{enumerate}[(1)]
+    \item 
+    En caso de dudas, enviar preguntas \textbf{al foro de la Tarea 1}. 
+    
+    En caso de cualquier de modificaciones, todas se informarán tanto por aula como por discord.
+    
+    \item Todo lo necesario para realizar la tarea se encuentra en el repositorio de github que se obtiene mediante la siguiente invitación de GitHub Classroom:
+\begin{center}
+
+    \url{https://classroom.github.com/a/0NcKwA6A}
+        
+\end{center}
+
+\textbf{Nota:} La estructura de archivos y el template del proyecto se encuentran disponibles en el repositorio generado.
+
+\item El repositorio generado contiene toda la información oficial y estructura necesaria para completar la tarea.
+\end{enumerate}
+
+\subsection{Implementaciones} \label{subsec:implementations}
+
+
+
+
+\begin{enumerate}[(1)]
+    \item \textbf{Ordenamiento y Multiplicación.}
+    \begin{itemize}
+        \item \textbf{Ordenamiento.}  Implementar en C++ los algoritmos de ordenamiento: \textsc{Insertion Sort}, \textsc{Merge Sort}, \textsc{Quick Sort}, \textsc{Panda Sort} y el algoritmo \textsc{Sort} de la librería estándar de C++. Use la siguiente estructura de archivos:
+        
+    \begin{itemize}
+        \item code/sorting/algorithms/insertionsort.cpp
+        \item code/sorting/algorithms/mergesort.cpp
+        \item code/sorting/algorithms/quicksort.cpp
+        \item code/sorting/algorithms/pandasort.cpp
+        \item code/sorting/algorithms/sort.cpp
+    \end{itemize}
+
+        \textbf{Importante para Quick Sort:} NO implementar el QuickSort básico. Debe implementar una variación del algoritmo, eligiendo una de las siguientes opciones:
+        \begin{itemize}
+            \item \textbf{Random Pivot} - Selección aleatoria del pivot
+            \item \textbf{Middle Element} - La mediana siempre es el pivot
+            \item \textbf{Median-of-Medians} - Algoritmo determinístico O(n) para pivot óptimo
+            \item \textbf{Randomized QuickSort} - Con shuffle inicial del arreglo
+        \end{itemize}
+        
+        Puede utilizar implementaciones disponibles en internet, pero debe \textbf{citar debidamente las fuentes} en el código y en el informe. 
+    
+    \textbf{Nota importante:} El algoritmo \textsc{Panda Sort} es un algoritmo de ordenamiento desarrollado específicamente para esta tarea. La implementación completa se encuentra disponible en el repositorio del curso para su análisis.
+    
+    El algoritmo \textsc{Sort} ya se encuentra implementado en el repositorio con el fin de que sea incluido en sus mediciones del punto (2) de la subsección <<\nameref{subsec:implementations}>>.
+    
+        \item \textbf{Multiplicación. } Se deben implementar en C++ los algoritmos de multiplicación \textsc{Naive} y \textsc{Strassen}. Use la siguiente estructura de archivos. 
+    \begin{itemize}
+        \item code/matrix\_multiplication/algorithms/naive.cpp
+        \item code/matrix\_multiplication/algorithms/strassen.cpp
+    \end{itemize}
+    \end{itemize}
+
+    \item \textbf{Mediciones de tiempo y memoria.}  Implementar el programa que realizará las mediciones de tiempo y memoria en C++ (programas principales) y su respectivo \texttt{makefile}, que ejecutará los algoritmos y generará los archivos de salida en cada uno de los directorios measurements sorting y measurements matrix multiplication con los resultados de cada uno de los algoritmos.
+    \begin{itemize}
+        \item code/sorting/sorting.cpp
+        \item code/matrix\_multiplication/matrix\_multiplication.cpp
+    \end{itemize}
+    
+    \item \textbf{Generación de gráficos. } Implementar el programa que generará los gráficos en PYTHON y que se encargará de leer los archivos generados por los programas principales guardados en measurements sorting y measurements matrix multiplication, para luego graficar los resultados obtenidos y guardarlos en formato PNG en plots sorting y plots matrix multiplication.
+    \begin{itemize}
+        \item code/sorting/scripts/plot\_generator.py
+        \item code/matrix\_multiplication/scripts/plot\_generator.py
+    \end{itemize}
+    \item \textbf{Documentación.} Documentar cada uno de los pasos anteriores
+    \begin{itemize}
+        \item Completar el archivo \texttt{README.md} del directorio \texttt{code}
+        \item Documentar en cada uno de sus programas, al inicio de cada archivo, \textbf{fuentes de información, referencias y/o bibliografía} utilizada para la implementación de cada uno de los algoritmos.
+        \item Para el algoritmo \textsc{Panda Sort}, documentar el diseño y la lógica del algoritmo desarrollado.
+    \end{itemize}
+\end{enumerate}
+
+\subsection{Informe} \label{subsec:report}
+Generar un informe en \LaTeX\ que contenga los resultados obtenidos y una discusión sobre ellos. En el repositorio generado por GitHub Classroom podrá encontrar el Template en el directorio report que \textbf{deben utilizar}, en esta entrega:
+
+\begin{mdframed}
+
+\begin{center}
+    
+    Template disponible en: \texttt{report/} dentro del repositorio generado
+        
+\end{center}
+\end{mdframed}
+
+\begin{itemize}
+    \item No se debe modificar la estructura del informe.
+    \item Las indicaciones se encuentran en el archivo \texttt{README.md} del repositorio y en la plantilla de \LaTeX. 
+\end{itemize}

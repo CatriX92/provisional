@@ -1,0 +1,146 @@
+Procesando 10_ascendente_D1_a.txt | n=10 | ~mem=3.8147e-05 MB
+✅ code/sorting/data/array_output/10_ascendente_D1_a_out.txt | tiempo=1.425e-06 s
+Procesando 10_ascendente_D1_c.txt | n=10 | ~mem=3.8147e-05 MB
+✅ code/sorting/data/array_output/10_ascendente_D1_c_out.txt | tiempo=1.563e-06 s
+Procesando 10_ascendente_D1_b.txt | n=10 | ~mem=3.8147e-05 MB
+✅ code/sorting/data/array_output/10_ascendente_D1_b_out.txt | tiempo=1.499e-06 s
+Procesando 10_descendente_D1_a.txt | n=10 | ~mem=3.8147e-05 MB
+✅ code/sorting/data/array_output/10_descendente_D1_a_out.txt | tiempo=1.704e-06 s
+Procesando 10_descendente_D1_c.txt | n=10 | ~mem=3.8147e-05 MB
+✅ code/sorting/data/array_output/10_descendente_D1_c_out.txt | tiempo=1.809e-06 s
+Procesando 10_descendente_D1_b.txt | n=10 | ~mem=3.8147e-05 MB
+✅ code/sorting/data/array_output/10_descendente_D1_b_out.txt | tiempo=1.778e-06 s
+Procesando 10_aleatorio_D1_b.txt | n=10 | ~mem=3.8147e-05 MB
+✅ code/sorting/data/array_output/10_aleatorio_D1_b_out.txt | tiempo=1.675e-06 s
+Procesando 10_aleatorio_D1_c.txt | n=10 | ~mem=3.8147e-05 MB
+✅ code/sorting/data/array_output/10_aleatorio_D1_c_out.txt | tiempo=1.739e-06 s
+Procesando 10_aleatorio_D1_a.txt | n=10 | ~mem=3.8147e-05 MB
+✅ code/sorting/data/array_output/10_aleatorio_D1_a_out.txt | tiempo=2.459e-06 s
+Procesando 10_aleatorio_D7_a.txt | n=10 | ~mem=3.8147e-05 MB
+✅ code/sorting/data/array_output/10_aleatorio_D7_a_out.txt | tiempo=1.621e-06 s
+Procesando 10_aleatorio_D7_b.txt | n=10 | ~mem=3.8147e-05 MB
+✅ code/sorting/data/array_output/10_aleatorio_D7_b_out.txt | tiempo=1.784e-06 s
+Procesando 10_descendente_D7_a.txt | n=10 | ~mem=3.8147e-05 MB
+✅ code/sorting/data/array_output/10_descendente_D7_a_out.txt | tiempo=1.506e-06 s
+Procesando 10_descendente_D7_b.txt | n=10 | ~mem=3.8147e-05 MB
+✅ code/sorting/data/array_output/10_descendente_D7_b_out.txt | tiempo=1.744e-06 s
+Procesando 10_ascendente_D7_a.txt | n=10 | ~mem=3.8147e-05 MB
+✅ code/sorting/data/array_output/10_ascendente_D7_a_out.txt | tiempo=1.162e-06 s
+Procesando 10_ascendente_D7_b.txt | n=10 | ~mem=3.8147e-05 MB
+✅ code/sorting/data/array_output/10_ascendente_D7_b_out.txt | tiempo=1.538e-06 s
+Procesando 10_ascendente_D7_c.txt | n=10 | ~mem=3.8147e-05 MB
+✅ code/sorting/data/array_output/10_ascendente_D7_c_out.txt | tiempo=1.331e-06 s
+Procesando 10_descendente_D7_c.txt | n=10 | ~mem=3.8147e-05 MB
+✅ code/sorting/data/array_output/10_descendente_D7_c_out.txt | tiempo=1.981e-06 s
+Procesando 10_aleatorio_D7_c.txt | n=10 | ~mem=3.8147e-05 MB
+✅ code/sorting/data/array_output/10_aleatorio_D7_c_out.txt | tiempo=1.864e-06 s
+Procesando 1000_ascendente_D1_a.txt | n=1000 | ~mem=0.0038147 MB
+✅ code/sorting/data/array_output/1000_ascendente_D1_a_out.txt | tiempo=5.8313e-05 s
+Procesando 1000_ascendente_D1_c.txt | n=1000 | ~mem=0.0038147 MB
+✅ code/sorting/data/array_output/1000_ascendente_D1_c_out.txt | tiempo=5.7419e-05 s
+Procesando 1000_ascendente_D1_b.txt | n=1000 | ~mem=0.0038147 MB
+✅ code/sorting/data/array_output/1000_ascendente_D1_b_out.txt | tiempo=5.877e-05 s
+Procesando 1000_descendente_D1_c.txt | n=1000 | ~mem=0.0038147 MB
+✅ code/sorting/data/array_output/1000_descendente_D1_c_out.txt | tiempo=6.3859e-05 s
+Procesando 1000_descendente_D1_b.txt | n=1000 | ~mem=0.0038147 MB
+✅ code/sorting/data/array_output/1000_descendente_D1_b_out.txt | tiempo=6.0475e-05 s
+Procesando 1000_descendente_D1_a.txt | n=1000 | ~mem=0.0038147 MB
+✅ code/sorting/data/array_output/1000_descendente_D1_a_out.txt | tiempo=6.3517e-05 s
+Procesando 1000_aleatorio_D1_a.txt | n=1000 | ~mem=0.0038147 MB
+✅ code/sorting/data/array_output/1000_aleatorio_D1_a_out.txt | tiempo=8.6259e-05 s
+Procesando 1000_aleatorio_D1_c.txt | n=1000 | ~mem=0.0038147 MB
+✅ code/sorting/data/array_output/1000_aleatorio_D1_c_out.txt | tiempo=8.0304e-05 s
+Procesando 1000_aleatorio_D1_b.txt | n=1000 | ~mem=0.0038147 MB
+✅ code/sorting/data/array_output/1000_aleatorio_D1_b_out.txt | tiempo=8.4268e-05 s
+Procesando 1000_descendente_D7_c.txt | n=1000 | ~mem=0.0038147 MB
+✅ code/sorting/data/array_output/1000_descendente_D7_c_out.txt | tiempo=5.2158e-05 s
+Procesando 1000_aleatorio_D7_a.txt | n=1000 | ~mem=0.0038147 MB
+✅ code/sorting/data/array_output/1000_aleatorio_D7_a_out.txt | tiempo=0.000113675 s
+Procesando 1000_aleatorio_D7_c.txt | n=1000 | ~mem=0.0038147 MB
+✅ code/sorting/data/array_output/1000_aleatorio_D7_c_out.txt | tiempo=0.00011583 s
+Procesando 1000_descendente_D7_a.txt | n=1000 | ~mem=0.0038147 MB
+✅ code/sorting/data/array_output/1000_descendente_D7_a_out.txt | tiempo=4.8112e-05 s
+Procesando 1000_descendente_D7_b.txt | n=1000 | ~mem=0.0038147 MB
+✅ code/sorting/data/array_output/1000_descendente_D7_b_out.txt | tiempo=4.5301e-05 s
+Procesando 1000_ascendente_D7_c.txt | n=1000 | ~mem=0.0038147 MB
+✅ code/sorting/data/array_output/1000_ascendente_D7_c_out.txt | tiempo=5.1027e-05 s
+Procesando 1000_aleatorio_D7_b.txt | n=1000 | ~mem=0.0038147 MB
+✅ code/sorting/data/array_output/1000_aleatorio_D7_b_out.txt | tiempo=0.000111909 s
+Procesando 1000_ascendente_D7_a.txt | n=1000 | ~mem=0.0038147 MB
+✅ code/sorting/data/array_output/1000_ascendente_D7_a_out.txt | tiempo=5.3008e-05 s
+Procesando 1000_ascendente_D7_b.txt | n=1000 | ~mem=0.0038147 MB
+✅ code/sorting/data/array_output/1000_ascendente_D7_b_out.txt | tiempo=5.3854e-05 s
+Procesando 100000_ascendente_D1_a.txt | n=100000 | ~mem=0.38147 MB
+✅ code/sorting/data/array_output/100000_ascendente_D1_a_out.txt | tiempo=0.0116741 s
+Procesando 100000_ascendente_D1_b.txt | n=100000 | ~mem=0.38147 MB
+✅ code/sorting/data/array_output/100000_ascendente_D1_b_out.txt | tiempo=0.0107886 s
+Procesando 100000_ascendente_D1_c.txt | n=100000 | ~mem=0.38147 MB
+✅ code/sorting/data/array_output/100000_ascendente_D1_c_out.txt | tiempo=0.0104464 s
+Procesando 100000_descendente_D1_a.txt | n=100000 | ~mem=0.38147 MB
+✅ code/sorting/data/array_output/100000_descendente_D1_a_out.txt | tiempo=0.0117545 s
+Procesando 100000_descendente_D1_b.txt | n=100000 | ~mem=0.38147 MB
+✅ code/sorting/data/array_output/100000_descendente_D1_b_out.txt | tiempo=0.011544 s
+Procesando 100000_descendente_D1_c.txt | n=100000 | ~mem=0.38147 MB
+✅ code/sorting/data/array_output/100000_descendente_D1_c_out.txt | tiempo=0.0115451 s
+Procesando 100000_aleatorio_D1_a.txt | n=100000 | ~mem=0.38147 MB
+✅ code/sorting/data/array_output/100000_aleatorio_D1_a_out.txt | tiempo=0.0132322 s
+Procesando 100000_aleatorio_D1_b.txt | n=100000 | ~mem=0.38147 MB
+✅ code/sorting/data/array_output/100000_aleatorio_D1_b_out.txt | tiempo=0.0122195 s
+Procesando 100000_aleatorio_D1_c.txt | n=100000 | ~mem=0.38147 MB
+✅ code/sorting/data/array_output/100000_aleatorio_D1_c_out.txt | tiempo=0.012435 s
+Procesando 100000_ascendente_D7_b.txt | n=100000 | ~mem=0.38147 MB
+✅ code/sorting/data/array_output/100000_ascendente_D7_b_out.txt | tiempo=0.00759132 s
+Procesando 100000_descendente_D7_c.txt | n=100000 | ~mem=0.38147 MB
+✅ code/sorting/data/array_output/100000_descendente_D7_c_out.txt | tiempo=0.00631884 s
+Procesando 100000_ascendente_D7_a.txt | n=100000 | ~mem=0.38147 MB
+✅ code/sorting/data/array_output/100000_ascendente_D7_a_out.txt | tiempo=0.0076923 s
+Procesando 100000_descendente_D7_a.txt | n=100000 | ~mem=0.38147 MB
+✅ code/sorting/data/array_output/100000_descendente_D7_a_out.txt | tiempo=0.00617993 s
+Procesando 100000_aleatorio_D7_a.txt | n=100000 | ~mem=0.38147 MB
+✅ code/sorting/data/array_output/100000_aleatorio_D7_a_out.txt | tiempo=0.0163698 s
+Procesando 100000_aleatorio_D7_b.txt | n=100000 | ~mem=0.38147 MB
+✅ code/sorting/data/array_output/100000_aleatorio_D7_b_out.txt | tiempo=0.0163389 s
+Procesando 100000_descendente_D7_b.txt | n=100000 | ~mem=0.38147 MB
+✅ code/sorting/data/array_output/100000_descendente_D7_b_out.txt | tiempo=0.00657682 s
+Procesando 100000_aleatorio_D7_c.txt | n=100000 | ~mem=0.38147 MB
+✅ code/sorting/data/array_output/100000_aleatorio_D7_c_out.txt | tiempo=0.016057 s
+Procesando 100000_ascendente_D7_c.txt | n=100000 | ~mem=0.38147 MB
+✅ code/sorting/data/array_output/100000_ascendente_D7_c_out.txt | tiempo=0.00847569 s
+Procesando 10000000_ascendente_D1_a.txt | n=10000000 | ~mem=38.147 MB
+✅ code/sorting/data/array_output/10000000_ascendente_D1_a_out.txt | tiempo=1.42334 s
+Procesando 10000000_ascendente_D1_b.txt | n=10000000 | ~mem=38.147 MB
+✅ code/sorting/data/array_output/10000000_ascendente_D1_b_out.txt | tiempo=1.39914 s
+Procesando 10000000_ascendente_D1_c.txt | n=10000000 | ~mem=38.147 MB
+✅ code/sorting/data/array_output/10000000_ascendente_D1_c_out.txt | tiempo=1.40966 s
+Procesando 10000000_descendente_D1_a.txt | n=10000000 | ~mem=38.147 MB
+✅ code/sorting/data/array_output/10000000_descendente_D1_a_out.txt | tiempo=1.42702 s
+Procesando 10000000_descendente_D1_b.txt | n=10000000 | ~mem=38.147 MB
+✅ code/sorting/data/array_output/10000000_descendente_D1_b_out.txt | tiempo=1.48723 s
+Procesando 10000000_descendente_D1_c.txt | n=10000000 | ~mem=38.147 MB
+✅ code/sorting/data/array_output/10000000_descendente_D1_c_out.txt | tiempo=1.55044 s
+Procesando 10000000_aleatorio_D1_a.txt | n=10000000 | ~mem=38.147 MB
+✅ code/sorting/data/array_output/10000000_aleatorio_D1_a_out.txt | tiempo=1.81641 s
+Procesando 10000000_aleatorio_D1_b.txt | n=10000000 | ~mem=38.147 MB
+✅ code/sorting/data/array_output/10000000_aleatorio_D1_b_out.txt | tiempo=1.81371 s
+Procesando 10000000_aleatorio_D1_c.txt | n=10000000 | ~mem=38.147 MB
+✅ code/sorting/data/array_output/10000000_aleatorio_D1_c_out.txt | tiempo=1.75099 s
+Procesando 10000000_descendente_D7_c.txt | n=10000000 | ~mem=38.147 MB
+✅ code/sorting/data/array_output/10000000_descendente_D7_c_out.txt | tiempo=0.945662 s
+Procesando 10000000_aleatorio_D7_a.txt | n=10000000 | ~mem=38.147 MB
+✅ code/sorting/data/array_output/10000000_aleatorio_D7_a_out.txt | tiempo=2.29957 s
+Procesando 10000000_aleatorio_D7_b.txt | n=10000000 | ~mem=38.147 MB
+✅ code/sorting/data/array_output/10000000_aleatorio_D7_b_out.txt | tiempo=2.14804 s
+Procesando 10000000_descendente_D7_a.txt | n=10000000 | ~mem=38.147 MB
+✅ code/sorting/data/array_output/10000000_descendente_D7_a_out.txt | tiempo=0.897286 s
+Procesando 10000000_descendente_D7_b.txt | n=10000000 | ~mem=38.147 MB
+✅ code/sorting/data/array_output/10000000_descendente_D7_b_out.txt | tiempo=0.934017 s
+Procesando 10000000_aleatorio_D7_c.txt | n=10000000 | ~mem=38.147 MB
+✅ code/sorting/data/array_output/10000000_aleatorio_D7_c_out.txt | tiempo=2.10007 s
+Procesando 10000000_ascendente_D7_a.txt | n=10000000 | ~mem=38.147 MB
+✅ code/sorting/data/array_output/10000000_ascendente_D7_a_out.txt | tiempo=0.993258 s
+Procesando 10000000_ascendente_D7_c.txt | n=10000000 | ~mem=38.147 MB
+✅ code/sorting/data/array_output/10000000_ascendente_D7_c_out.txt | tiempo=0.987444 s
+Procesando 10000000_ascendente_D7_b.txt | n=10000000 | ~mem=38.147 MB
+✅ code/sorting/data/array_output/10000000_ascendente_D7_b_out.txt | tiempo=0.968891 s
+
+Tiempo total: 65.0867 s

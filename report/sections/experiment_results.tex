@@ -1,0 +1,46 @@
+\subsection*{Datos de Ejecución de los Algoritmos}
+
+\begin{table}[H]
+    \centering
+    \caption{Resultados de ejecución de los algoritmos}
+    \label{tab:resultados_ejecucion}
+    \begin{tabular}{|c|c|c|}
+        \hline
+            \textbf{Algoritmo} & \textbf{Tiempo (s)} & \textbf{Espacio (MB)} \\
+            \hline
+            Quicksort & [-] & 38.147 \\
+            \hline
+            Pandasort & 5655.73 & 38.147 \\
+            \hline
+            Insertionsort & [-] & 38.147 \\
+            \hline
+            Mergesort & 85.6627 & 38.147 \\
+            \hline
+            Sort & 65.0867 & 38.147 \\
+            \hline
+            Naive & [-] & [-] \\
+            \hline
+            Strassen & [-] & [-] \\
+            \hline
+    \end{tabular}
+\end{table}
+
+\subsection*{Ejecuciones Incompletas o No Finalizadas}
+
+En algunos casos, ciertos algoritmos no lograron completar su ejecución debido a limitaciones de tiempo, memoria, o errores inesperados durante el proceso experimental. A continuación, se detallan los algoritmos afectados, las condiciones bajo las cuales no finalizaron y una breve explicación de las posibles causas:
+
+\begin{itemize}
+    \item \textbf{[Quicksort]}: No finalizó debido a una mala implementación que causaba un desbordamiento de pila en entradas muy grandes.
+    \item \textbf{[Insertionsort]}: No finalizó debido a un tiempo de ejecución excesivo para entradas mayores a 10,000 elementos.
+    \item \textbf{[Strassen]}: No finalizó debido a errores de lectura de los archivos de entrada.
+    \item \textbf{[Naive]}: No finalizó debido a errores de lectura de los archivos de entrada.
+\end{itemize}
+\subsection*{Discusión Teórica y Comparación Práctica}
+
+Desde un punto de vista teórico, los algoritmos de ordenamiento como Quicksort y Mergesort suelen ser preferidos para grandes volúmenes de datos debido a su complejidad temporal promedio de \(O(n \log n)\).
+Quicksort es conocido por su eficiencia en la práctica, aunque su peor caso es \(O(n^2)\), mientras que Mergesort garantiza \(O(n \log n)\) en todos los casos, a costa de un mayor uso de memoria. Insertionsort, por otro lado, es adecuado solo para conjuntos de datos pequeños debido a su complejidad \(O(n^2)\).
+En la práctica, según los resultados obtenidos, Mergesort y Sort (la función de ordenamiento nativa) completaron la tarea en tiempos razonables, validando la teoría. Pandasort, aunque funcional, fue considerablemente más lento, probablemente debido a la sobrecarga de la biblioteca.
+Quicksort e Insertionsort no finalizaron, lo que evidencia que una mala implementación o la elección de un algoritmo inadecuado puede afectar drásticamente el desempeño real, independientemente de la teoría. Finalmente, los algoritmos Naive y Strassen presentaron problemas de entrada, por lo que no fue posible evaluarlos.
+En conclusión, aunque la teoría sugiere ciertos algoritmos como óptimos, la implementación y el contexto práctico pueden modificar significativamente los resultados esperados.
+\noindent
+\textbf{Nota:} 

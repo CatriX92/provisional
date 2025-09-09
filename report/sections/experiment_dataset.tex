@@ -1,0 +1,15 @@
+/subsection{Descripción del Dataset}
+ 
+ Para los experimentos realizados en este trabajo, se utilizaron los siguientes casos de prueba proporcionados en el enunciado. Cada archivo de entrada tiene el formato \texttt{\{n\}\_\{t\}\_\{d\}\_\{m\}.txt}, donde:
+
+\begin{itemize}
+    \item $n$ es la cantidad de elementos del arreglo, con valores en $N = \{10**1, 10**3, 10**5, 10**7\}$.
+    \item $t$ indica el tipo de arreglo: ascendente, descendente o aleatorio.
+    \item $d$ representa el dominio de los elementos: $D1 = \{0,1,2,3,4,5,6,7,8,9\}$ o $D7 = \{0,1,2,\ldots,107\}$.
+    \item $m$ corresponde a la muestra aleatoria o caso de prueba, con valores en $M = \{a, b, c\}$.
+\end{itemize}
+
+La salida esperada es un archivo \texttt{\{n\}\_\{t\}\_\{d\}\_\{m\}\_out.txt} con la matriz resultante.
+
+Estos casos de prueba cubren diferentes tamaños de entrada, tipos de ordenamiento y dominios de valores, lo que permite evaluar el comportamiento de los algoritmos bajo distintas condiciones. Sin embargo, la cantidad de tamaños y dominios es limitada, lo que podría restringir la generalización de los resultados.
+Además, al no permitir la incorporación de nuevos casos, el análisis experimental se limita a la diversidad propuesta en el enunciado, lo cual es suficiente para comparar algoritmos en un contexto controlado, pero podría no reflejar todos los escenarios posibles en aplicaciones reales.
